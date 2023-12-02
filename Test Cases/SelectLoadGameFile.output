@@ -1,0 +1,40 @@
+  Menu
+  ----
+   1. New Game
+   2. Load Game
+   3. Credits
+   4. Quit 
+   ----------------------------
+   Enter load game file
+   > Match1.save 
+
+   Scrabble game successfully loaded
+   <Gameplay continues from here>
+
+Turn of: DONATELLO
+Score for YOUNG WILLY: 4
+Score for DONATELLO: 3
+
+    0   1   2   3   4   5   6   7   8   9   10   11   12   13   14
+--------------------------------------------------------------------
+A |   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+B |   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+C |   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+D |   |   |   |   |   | S |   |   |   |   |    |    |    |    |    |
+E |   |   |   |   |   | A | L | T | A | R |    |    |    |    |    |
+F |   |   |   |   |   | L |   |   |   | A |    |    |    |    |    |
+G |   |   |   |   |   | E |   |   |   | N |    |    |    |    |    |
+H |   |   |   |   |   |   |   |   |   | T | R  | E  | E  |    |    |
+I |   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+J |   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+K |   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+L |   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+M |   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+N |   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+O |   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+
+Your hand is
+F-7, F-8, I-10, G-11, E-10, I-11, E-1,
+
+< 
+   

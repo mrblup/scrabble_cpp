@@ -1,0 +1,25 @@
+ ---- 
+ Menu 
+ ---- 
+ 1. New Game 
+ 2. Load Game 
+ 3. Credits 
+ 4. Config 
+ 5. Quit 
+
+>do you wish to activate 3-4 player?
+yes or no(lower case): 
+3+ player mode has been activated
+ ---- 
+ Menu 
+ ---- 
+ 1. New Game 
+ 2. Load Game 
+ 3. Credits 
+ 4. Config 
+ 5. Quit 
+
+>
+Enter load game file
+>test
+invalid file name

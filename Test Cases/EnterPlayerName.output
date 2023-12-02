@@ -1,0 +1,46 @@
+----
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit 
+
+> 1
+
+Starting a New Game
+
+Enter a name for Player 1 (uppercase characters only)
+> DONATELLO
+
+Enter a name for Player 2 (uppercase characters only)
+> YOUNG WILLY
+
+Let's Play!
+
+Turn of: DONATELLO
+Score for YOUNG WILLY: 0
+Score for DONATELLO: 0
+ 
+    0    1    2    3    4    5    6    7    8    9   10   11   12   13   14
+------------------------------------------------------------------------------
+A |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+B |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+C |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+D |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+E |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+F |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+G |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+H |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+I |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+J |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+K |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+L |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+M |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+N |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+O |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+
+Your hand is
+D-5, H-12, E-9, I-12, G-11, E-10, D-9
+
+<

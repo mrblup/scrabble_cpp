@@ -1,0 +1,54 @@
+ ---- 
+ Menu 
+ ---- 
+ 1. New Game 
+ 2. Load Game 
+ 3. Credits 
+ 4. Config 
+ 5. Quit 
+
+>do you wish to activate 3-4 player?
+yes or no(lower case): 
+3+ player mode has been activated
+ ---- 
+ Menu 
+ ---- 
+ 1. New Game 
+ 2. Load Game 
+ 3. Credits 
+ 4. Config 
+ 5. Quit 
+
+>
+Enter load game file
+>Turn of: THREE
+Score for ONE: 4
+Score for TWO: 4
+Score for THREE: 10
+     0    1    2    3    4    5    6    7    8    9   10   11   12   13   14
+   ----------------------------------------------------------------------------
+A  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+B  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+C  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+D  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+E  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+F  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+G  |    |    |    |    |    |    |    |    |    |    | V  | H  | Q  |    |    |
+H  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+I  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+J  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+K  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+L  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+M  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+N  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+O  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+
+Your hand is
+E-1 L-1 E-1 F-4 T-1 T-1 E-1 
+< GAME OVER!
+Score for ONE:4
+Score for TWO:4
+Score for THREE:10
+The winner is: THREE , with a score of 10
+Highscore: 69 by: A
+Goodbye!

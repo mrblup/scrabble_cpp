@@ -1,0 +1,12 @@
+ ---- 
+ Menu 
+ ---- 
+ 1. New Game 
+ 2. Load Game 
+ 3. Credits 
+ 4. Config 
+ 5. Quit 
+
+>
+Enter load game file
+>invalid file name
